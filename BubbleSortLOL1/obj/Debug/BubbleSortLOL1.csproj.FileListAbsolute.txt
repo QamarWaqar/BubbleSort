@@ -1,0 +1,6 @@
+c:\users\terminator\documents\visual studio 2015\Projects\BubbleSortLOL1\BubbleSortLOL1\bin\Debug\BubbleSortLOL1.exe.config
+c:\users\terminator\documents\visual studio 2015\Projects\BubbleSortLOL1\BubbleSortLOL1\bin\Debug\BubbleSortLOL1.exe
+c:\users\terminator\documents\visual studio 2015\Projects\BubbleSortLOL1\BubbleSortLOL1\bin\Debug\BubbleSortLOL1.pdb
+c:\users\terminator\documents\visual studio 2015\Projects\BubbleSortLOL1\BubbleSortLOL1\obj\Debug\BubbleSortLOL1.csprojResolveAssemblyReference.cache
+c:\users\terminator\documents\visual studio 2015\Projects\BubbleSortLOL1\BubbleSortLOL1\obj\Debug\BubbleSortLOL1.exe
+c:\users\terminator\documents\visual studio 2015\Projects\BubbleSortLOL1\BubbleSortLOL1\obj\Debug\BubbleSortLOL1.pdb
